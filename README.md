@@ -1,1 +1,1 @@
-# react-practice-scrimba
+# react-practice
